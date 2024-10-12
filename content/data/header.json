@@ -16,7 +16,19 @@
             "type": "SubNav",
             "label": "Produtos",
             "altText": "Dropdown",
-            "links": [],
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Buy now",
+                    "altText": "Buy now",
+                    "url": "/barrinha",
+                    "showIcon": true,
+                    "icon": "shoppingBag",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
             "labelStyle": "secondary"
         },
         {
