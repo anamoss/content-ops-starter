@@ -13,7 +13,7 @@
     },
     "primaryLinks": [
         {
-            "label": "compras",
+            "label": "produtos",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
