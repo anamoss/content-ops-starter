@@ -8,10 +8,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Loja online especializada em produtos e snacks para pessoas com restrições
+      alimentares. Nosso site é dedicado a oferecer uma ampla gama de opções
+      seguras e deliciosas para quem é intolerante à lactose,glúten, diabetes..
+      Nossa missão é tornar sua experiência alimentar mais simples e deliciosa.
+      Oferecemos uma seleção cuidadosamente selecionada de produtos que
+      respeitam suas restrições alimentares, sem comprometer o sabor!
+
     actions:
       - label: Get started
         altText: ''
