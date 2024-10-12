@@ -19,7 +19,7 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Buy now",
+                    "label": "barrinha",
                     "altText": "Buy now",
                     "url": "/barrinha",
                     "showIcon": true,
