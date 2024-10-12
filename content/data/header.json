@@ -19,7 +19,7 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "",
+                    "label": "Dropdown item",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
@@ -30,7 +30,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
