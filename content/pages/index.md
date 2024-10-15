@@ -17,7 +17,7 @@ sections:
       respeitam suas restrições alimentares, sem comprometer o sabor!
 
     actions:
-      - label: Get started
+      - label: comprar
         altText: ''
         url: /
         showIcon: false
