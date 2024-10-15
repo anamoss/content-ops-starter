@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: pipoca 2
+title: 'pipoca '
 sections:
   - type: PricingSection
     title:
