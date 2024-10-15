@@ -20,7 +20,7 @@
                 {
                     "type": "Link",
                     "label": "pipocas",
-                    "altText": "Buy now",
+                    "altText": "pipoca",
                     "url": "pipocas",
                     "showIcon": true,
                     "icon": "shoppingBag",
